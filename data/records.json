@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-05-04T04:32:04.140432Z",
+  "fetched_at": "2026-05-04T12:14:40.156136Z",
   "source": "Rockwall County TX \u2013 Tyler Technologies",
   "date_range": {
-    "from": "04/04/2026",
+    "from": "04/20/2026",
     "to": "05/04/2026"
   },
   "total": 7,
@@ -11,7 +11,7 @@
     {
       "doc_num": "2026-DEMO-0001",
       "doc_type": "LIS PENDENS",
-      "filed": "2026-04-04",
+      "filed": "2026-04-20",
       "cat": "pre_foreclosure",
       "cat_label": "Lis Pendens",
       "owner": "SMITH ROBERT",
@@ -28,15 +28,16 @@
       "mail_zip": "75087",
       "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
       "flags": [
-        "Lis pendens"
+        "Lis pendens",
+        "New this week"
       ],
-      "score": 65,
+      "score": 80,
       "_demo": true
     },
     {
       "doc_num": "2026-DEMO-0008",
       "doc_type": "HEIRSHIP AFFIDAVIT",
-      "filed": "2026-04-11",
+      "filed": "2026-04-27",
       "cat": "probate",
       "cat_label": "Heirship Affidavit",
       "owner": "GARCIA CARLOS",
@@ -53,15 +54,16 @@
       "mail_zip": "75189",
       "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
       "flags": [
-        "Probate / estate"
+        "Probate / estate",
+        "New this week"
       ],
-      "score": 55,
+      "score": 70,
       "_demo": true
     },
     {
       "doc_num": "2026-DEMO-0009",
       "doc_type": "PROBATE",
-      "filed": "2026-04-12",
+      "filed": "2026-04-28",
       "cat": "probate",
       "cat_label": "Probate",
       "owner": "DAVIS JAMES",
@@ -78,15 +80,16 @@
       "mail_zip": "75087",
       "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
       "flags": [
-        "Probate / estate"
+        "Probate / estate",
+        "New this week"
       ],
-      "score": 55,
+      "score": 70,
       "_demo": true
     },
     {
       "doc_num": "2026-DEMO-0010",
       "doc_type": "DIVORCE DECREE",
-      "filed": "2026-04-13",
+      "filed": "2026-04-29",
       "cat": "other",
       "cat_label": "Divorce Decree",
       "owner": "JONES MARK",
@@ -103,15 +106,16 @@
       "mail_zip": "75189",
       "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
       "flags": [
-        "Divorce"
+        "Divorce",
+        "New this week"
       ],
-      "score": 50,
+      "score": 65,
       "_demo": true
     },
     {
       "doc_num": "2026-DEMO-0005",
       "doc_type": "MECHANICS LIEN",
-      "filed": "2026-04-08",
+      "filed": "2026-04-24",
       "cat": "lien",
       "cat_label": "Mechanics Lien",
       "owner": "ACME CONTR",
@@ -128,15 +132,16 @@
       "mail_zip": "",
       "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
       "flags": [
-        "Mechanic lien"
+        "Mechanic lien",
+        "New this week"
       ],
-      "score": 40,
+      "score": 55,
       "_demo": true
     },
     {
       "doc_num": "2026-DEMO-0006",
       "doc_type": "LIEN",
-      "filed": "2026-04-09",
+      "filed": "2026-04-25",
       "cat": "lien",
       "cat_label": "Lien",
       "owner": "GENERIC LIEN",
@@ -153,15 +158,16 @@
       "mail_zip": "",
       "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
       "flags": [
-        "Lien"
+        "Lien",
+        "New this week"
       ],
-      "score": 40,
+      "score": 55,
       "_demo": true
     },
     {
       "doc_num": "2026-DEMO-0007",
       "doc_type": "CHILD SUPPORT LIEN",
-      "filed": "2026-04-10",
+      "filed": "2026-04-26",
       "cat": "lien",
       "cat_label": "Child Support Lien",
       "owner": "TX OAG",
@@ -178,9 +184,10 @@
       "mail_zip": "",
       "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
       "flags": [
-        "Child support lien"
+        "Child support lien",
+        "New this week"
       ],
-      "score": 40,
+      "score": 55,
       "_demo": true
     }
   ]
