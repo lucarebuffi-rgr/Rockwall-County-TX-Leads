@@ -464,12 +464,16 @@ async def scrape_all(date_from: str, date_to: str) -> list:
                     "field_GrantorID":                               "",
                     "field_GranteeID-containsInput":                 "Contains Any",
                     "field_GranteeID":                               "",
-                    "field_RecDateID_DOT_StartDate":                 df,
-                    "field_RecDateID_DOT_EndDate":                   dt,
-                    "field_DocNumID":                                "",
-                    "field_BookVolPageID_DOT_Book":                  "",
-                    "field_BookVolPageID_DOT_Volume":                "",
-                    "field_BookVolPageID_DOT_Page":                  "",
+                    # Rockwall uses 'RecordingDateID' (not 'RecDateID' like Kaufman/Hill)
+                    "field_RecordingDateID_DOT_StartDate":           df,
+                    "field_RecordingDateID_DOT_EndDate":             dt,
+                    # Rockwall uses 'DocumentNumberID' (not 'DocNumID')
+                    "field_DocumentNumberID":                        "",
+                    # Rockwall uses 'BookPageID' (not 'BookVolPageID')
+                    "field_BookPageID_DOT_Book-containsInput":       "Contains Any",
+                    "field_BookPageID_DOT_Book":                     "",
+                    "field_BookPageID_DOT_Volume":                   "",
+                    "field_BookPageID_DOT_Page":                     "",
                     "field_selfservice_documentTypes-holderInput":   holder_input,
                     "field_selfservice_documentTypes-holderValue":   doc_type,
                     "field_selfservice_documentTypes-containsInput": "Contains Any",
