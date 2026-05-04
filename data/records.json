@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-05-04T04:27:46.375202Z",
+  "fetched_at": "2026-05-04T04:32:04.140432Z",
   "source": "Rockwall County TX \u2013 Tyler Technologies",
   "date_range": {
-    "from": "02/03/2026",
+    "from": "04/04/2026",
     "to": "05/04/2026"
   },
   "total": 7,
@@ -11,7 +11,7 @@
     {
       "doc_num": "2026-DEMO-0001",
       "doc_type": "LIS PENDENS",
-      "filed": "2026-02-03",
+      "filed": "2026-04-04",
       "cat": "pre_foreclosure",
       "cat_label": "Lis Pendens",
       "owner": "SMITH ROBERT",
@@ -36,7 +36,7 @@
     {
       "doc_num": "2026-DEMO-0008",
       "doc_type": "HEIRSHIP AFFIDAVIT",
-      "filed": "2026-02-10",
+      "filed": "2026-04-11",
       "cat": "probate",
       "cat_label": "Heirship Affidavit",
       "owner": "GARCIA CARLOS",
@@ -61,7 +61,7 @@
     {
       "doc_num": "2026-DEMO-0009",
       "doc_type": "PROBATE",
-      "filed": "2026-02-11",
+      "filed": "2026-04-12",
       "cat": "probate",
       "cat_label": "Probate",
       "owner": "DAVIS JAMES",
@@ -86,7 +86,7 @@
     {
       "doc_num": "2026-DEMO-0010",
       "doc_type": "DIVORCE DECREE",
-      "filed": "2026-02-12",
+      "filed": "2026-04-13",
       "cat": "other",
       "cat_label": "Divorce Decree",
       "owner": "JONES MARK",
@@ -111,7 +111,7 @@
     {
       "doc_num": "2026-DEMO-0005",
       "doc_type": "MECHANICS LIEN",
-      "filed": "2026-02-07",
+      "filed": "2026-04-08",
       "cat": "lien",
       "cat_label": "Mechanics Lien",
       "owner": "ACME CONTR",
@@ -136,7 +136,7 @@
     {
       "doc_num": "2026-DEMO-0006",
       "doc_type": "LIEN",
-      "filed": "2026-02-08",
+      "filed": "2026-04-09",
       "cat": "lien",
       "cat_label": "Lien",
       "owner": "GENERIC LIEN",
@@ -161,7 +161,7 @@
     {
       "doc_num": "2026-DEMO-0007",
       "doc_type": "CHILD SUPPORT LIEN",
-      "filed": "2026-02-09",
+      "filed": "2026-04-10",
       "cat": "lien",
       "cat_label": "Child Support Lien",
       "owner": "TX OAG",

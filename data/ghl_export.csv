@@ -1,8 +1,8 @@
 First Name,Last Name,Mailing Address,Mailing City,Mailing State,Mailing Zip,Property Address,Property City,Property State,Property Zip,Lead Type,Document Type,Date Filed,Document Number,Amount/Debt Owed,Seller Score,Motivated Seller Flags,Source,Public Records URL
-SMITH,ROBERT,1410 HARVARD DRIVE,ROCKWALL,TX,75087,1410 HARVARD DR,ROCKWALL,TX,75087,Lis Pendens,LIS PENDENS,2026-02-03,2026-DEMO-0001,,65,Lis pendens,Rockwall County TX,https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1
-GARCIA,CARLOS,205 VALEN DR,FATE,TX,75189,205 VALEN DR,Rockwall,TX,,Heirship Affidavit,HEIRSHIP AFFIDAVIT,2026-02-10,2026-DEMO-0008,,55,Probate / estate,Rockwall County TX,https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1
-DAVIS,JAMES,1247 HAMPTON BAY DR,ROCKWALL,TX,75087,1247 HAMPTON BAY DR,Rockwall,TX,,Probate,PROBATE,2026-02-11,2026-DEMO-0009,,55,Probate / estate,Rockwall County TX,https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1
-JONES,MARK,925 DECKER DRIVE,FATE,TX,75189,925 DECKER DR,FATE,TX,75189,Divorce Decree,DIVORCE DECREE,2026-02-12,2026-DEMO-0010,,50,Divorce,Rockwall County TX,https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1
-ACME,CONTR,,,TX,,,,TX,,Mechanics Lien,MECHANICS LIEN,2026-02-07,2026-DEMO-0005,22000.0,40,Mechanic lien,Rockwall County TX,https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1
-GENERIC,LIEN,,,TX,,,,TX,,Lien,LIEN,2026-02-08,2026-DEMO-0006,7500.0,40,Lien,Rockwall County TX,https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1
-TX,OAG,,,TX,,,,TX,,Child Support Lien,CHILD SUPPORT LIEN,2026-02-09,2026-DEMO-0007,5500.0,40,Child support lien,Rockwall County TX,https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1
+SMITH,ROBERT,1410 HARVARD DRIVE,ROCKWALL,TX,75087,1410 HARVARD DR,ROCKWALL,TX,75087,Lis Pendens,LIS PENDENS,2026-04-04,2026-DEMO-0001,,65,Lis pendens,Rockwall County TX,https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1
+GARCIA,CARLOS,205 VALEN DR,FATE,TX,75189,205 VALEN DR,Rockwall,TX,,Heirship Affidavit,HEIRSHIP AFFIDAVIT,2026-04-11,2026-DEMO-0008,,55,Probate / estate,Rockwall County TX,https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1
+DAVIS,JAMES,1247 HAMPTON BAY DR,ROCKWALL,TX,75087,1247 HAMPTON BAY DR,Rockwall,TX,,Probate,PROBATE,2026-04-12,2026-DEMO-0009,,55,Probate / estate,Rockwall County TX,https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1
+JONES,MARK,925 DECKER DRIVE,FATE,TX,75189,925 DECKER DR,FATE,TX,75189,Divorce Decree,DIVORCE DECREE,2026-04-13,2026-DEMO-0010,,50,Divorce,Rockwall County TX,https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1
+ACME,CONTR,,,TX,,,,TX,,Mechanics Lien,MECHANICS LIEN,2026-04-08,2026-DEMO-0005,22000.0,40,Mechanic lien,Rockwall County TX,https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1
+GENERIC,LIEN,,,TX,,,,TX,,Lien,LIEN,2026-04-09,2026-DEMO-0006,7500.0,40,Lien,Rockwall County TX,https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1
+TX,OAG,,,TX,,,,TX,,Child Support Lien,CHILD SUPPORT LIEN,2026-04-10,2026-DEMO-0007,5500.0,40,Child support lien,Rockwall County TX,https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1
