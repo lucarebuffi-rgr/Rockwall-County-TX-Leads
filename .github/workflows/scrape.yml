@@ -1,8 +1,10 @@
 name: Scrape Rockwall County
 
+# Cron disabled because Rockwall's site blocks GitHub IPs (returns 403).
+# This scraper runs from the Mac instead via the local update_rockwall.command script.
+# This workflow is kept around for manual triggering only (e.g. if Rockwall ever
+# lifts the IP block, or if you set up a VPS later).
 on:
-  schedule:
-    - cron: '0 7 * * *'
   workflow_dispatch:
     inputs:
       lookback_days:
@@ -31,19 +33,3 @@ jobs:
           git add data/records.json data/ghl_export.csv dashboard/records.json
           git diff --cached --quiet || git commit -m "Update Rockwall County records"
           git push
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: dashboard/
-
-  deploy:
-    needs: scrape
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
