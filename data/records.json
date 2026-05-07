@@ -1,91 +1,13 @@
 {
-  "fetched_at": "2026-05-05T04:42:17.327184Z",
+  "fetched_at": "2026-05-07T03:09:36.071704Z",
   "source": "Rockwall County TX \u2013 Tyler Technologies",
   "date_range": {
-    "from": "02/03/2026",
-    "to": "05/04/2026"
+    "from": "02/05/2026",
+    "to": "05/06/2026"
   },
-  "total": 161,
-  "with_address": 161,
+  "total": 162,
+  "with_address": 162,
   "records": [
-    {
-      "doc_num": "20260000007230",
-      "doc_type": "HEIRSHIP AFFIDAVIT",
-      "filed": "2026-04-20",
-      "cat": "probate",
-      "cat_label": "Heirship Affidavit",
-      "owner": "REYES REYNALDO",
-      "grantee": "REYES ROSA ELVA",
-      "amount": null,
-      "legal": "Sub/Con: SAMUEL MCFADGIN SURVEY 842 BUENA VISTA ROAD",
-      "prop_address": "842 BUENA VISTA",
-      "prop_city": "Rockwall",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "842 BUENA VISTA RD",
-      "mail_city": "ROYSE CITY",
-      "mail_state": "TX",
-      "mail_zip": "75189",
-      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
-    {
-      "doc_num": "20260000007231",
-      "doc_type": "HEIRSHIP AFFIDAVIT",
-      "filed": "2026-04-20",
-      "cat": "probate",
-      "cat_label": "Heirship Affidavit",
-      "owner": "REYES REYNALDO",
-      "grantee": "REYES ROSA ELVA",
-      "amount": null,
-      "legal": "Sub/Con: SAMUEL MCFADGIN SURVEY",
-      "prop_address": "842 BUENA VISTA",
-      "prop_city": "Rockwall",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "842 BUENA VISTA RD",
-      "mail_city": "ROYSE CITY",
-      "mail_state": "TX",
-      "mail_zip": "75189",
-      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
-    {
-      "doc_num": "20260000007350",
-      "doc_type": "HEIRSHIP AFFIDAVIT",
-      "filed": "2026-04-21",
-      "cat": "probate",
-      "cat_label": "Heirship Affidavit",
-      "owner": "MATA DENISE GAYLE",
-      "grantee": "MATA MIKE",
-      "amount": null,
-      "legal": "Sub/Con: LAKESIDE VILLAGE ESTATES Lot: 53 Block: B Phase: VC 2034 PONTCHARTRAIN DRIVE",
-      "prop_address": "2034 PONTCHARTRAIN DR",
-      "prop_city": "Rockwall",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "2034 PONTCHARTRAIN DR",
-      "mail_city": "ROCKWALL",
-      "mail_state": "TX",
-      "mail_zip": "75087",
-      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
-      "flags": [
-        "Probate / estate",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
     {
       "doc_num": "20260000007492",
       "doc_type": "FEDERAL TAX LIEN",
@@ -191,6 +113,58 @@
       "_demo": false
     },
     {
+      "doc_num": "20260000008315",
+      "doc_type": "FEDERAL TAX LIEN",
+      "filed": "2026-05-04",
+      "cat": "lien",
+      "cat_label": "Federal Tax Lien",
+      "owner": "HOLMAN GUY",
+      "grantee": "INTERNAL REVENUE SERVICE",
+      "amount": null,
+      "legal": "$152406.95",
+      "prop_address": "2636 LINDBERG ST",
+      "prop_city": "Rockwall",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "2636 LINDBERG ST",
+      "mail_city": "ROCKWALL",
+      "mail_state": "TX",
+      "mail_zip": "75032",
+      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
+      "flags": [
+        "Tax lien",
+        "New this week"
+      ],
+      "score": 70,
+      "_demo": false
+    },
+    {
+      "doc_num": "20260000008314",
+      "doc_type": "FEDERAL TAX LIEN",
+      "filed": "2026-05-04",
+      "cat": "lien",
+      "cat_label": "Federal Tax Lien",
+      "owner": "LEMP SHERRI L",
+      "grantee": "INTERNAL REVENUE SERVICE",
+      "amount": null,
+      "legal": "$116083.72",
+      "prop_address": "14 CYPRESS CT",
+      "prop_city": "HEATH",
+      "prop_state": "TX",
+      "prop_zip": "75032",
+      "mail_address": "14 Cypress Ct",
+      "mail_city": "Heath",
+      "mail_state": "TX",
+      "mail_zip": "75032",
+      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
+      "flags": [
+        "Tax lien",
+        "New this week"
+      ],
+      "score": 70,
+      "_demo": false
+    },
+    {
       "doc_num": "20260000007969",
       "doc_type": "DIVORCE DECREE",
       "filed": "2026-04-29",
@@ -214,58 +188,6 @@
         "New this week"
       ],
       "score": 65,
-      "_demo": false
-    },
-    {
-      "doc_num": "20260000007123",
-      "doc_type": "LIEN",
-      "filed": "2026-04-20",
-      "cat": "lien",
-      "cat_label": "Lien",
-      "owner": "TURNER MICHELLE SANTRICE",
-      "grantee": "HEATH GOLF & YACHT CLUB HOA INC",
-      "amount": null,
-      "legal": "Sub/Con: HEATH GOLF & YACHT CLUB Lot: 89 Block: E Phase: 2 3545 GOLDEN BELL COURT",
-      "prop_address": "3545 GOLDEN BELL CT",
-      "prop_city": "HEATH",
-      "prop_state": "TX",
-      "prop_zip": "75126",
-      "mail_address": "3545 Golden Bell Ct",
-      "mail_city": "Heath",
-      "mail_state": "TX",
-      "mail_zip": "75126",
-      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
-      "flags": [
-        "Lien",
-        "New this week"
-      ],
-      "score": 60,
-      "_demo": false
-    },
-    {
-      "doc_num": "20260000007250",
-      "doc_type": "MECHANICS LIEN",
-      "filed": "2026-04-21",
-      "cat": "lien",
-      "cat_label": "Mechanics Lien",
-      "owner": "NORTH TEXAS WIN WATER",
-      "grantee": "MC TRILOGY TEXAS LLC",
-      "amount": null,
-      "legal": "Sub/Con: J SIMMONS SURVEY",
-      "prop_address": "MUNSON RD",
-      "prop_city": "Rockwall",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "PO BOX 2408",
-      "mail_city": "WYLIE",
-      "mail_state": "TX",
-      "mail_zip": "75098",
-      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
-      "flags": [
-        "Mechanic lien",
-        "New this week"
-      ],
-      "score": 60,
       "_demo": false
     },
     {
@@ -1049,31 +971,6 @@
       "_demo": false
     },
     {
-      "doc_num": "20260000001895",
-      "doc_type": "FEDERAL TAX LIEN",
-      "filed": "2026-02-04",
-      "cat": "lien",
-      "cat_label": "Federal Tax Lien",
-      "owner": "OLDS HOLLY E",
-      "grantee": "INTERNAL REVENUE SERVICE",
-      "amount": null,
-      "legal": "$44560.22",
-      "prop_address": "1000 WOODBRIDGE PL",
-      "prop_city": "HEATH",
-      "prop_state": "TX",
-      "prop_zip": "75032",
-      "mail_address": "1000 WOODBRIDGE PL",
-      "mail_city": "HEATH",
-      "mail_state": "TX",
-      "mail_zip": "75202",
-      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
-      "flags": [
-        "Tax lien"
-      ],
-      "score": 55,
-      "_demo": false
-    },
-    {
       "doc_num": "20260000002376",
       "doc_type": "FEDERAL TAX LIEN",
       "filed": "2026-02-10",
@@ -1594,6 +1491,81 @@
       "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
       "flags": [
         "Tax lien"
+      ],
+      "score": 55,
+      "_demo": false
+    },
+    {
+      "doc_num": "20260000007230",
+      "doc_type": "HEIRSHIP AFFIDAVIT",
+      "filed": "2026-04-20",
+      "cat": "probate",
+      "cat_label": "Heirship Affidavit",
+      "owner": "REYES REYNALDO",
+      "grantee": "REYES ROSA ELVA",
+      "amount": null,
+      "legal": "Sub/Con: SAMUEL MCFADGIN SURVEY 842 BUENA VISTA ROAD",
+      "prop_address": "842 BUENA VISTA",
+      "prop_city": "Rockwall",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "842 BUENA VISTA RD",
+      "mail_city": "ROYSE CITY",
+      "mail_state": "TX",
+      "mail_zip": "75189",
+      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
+      "flags": [
+        "Probate / estate"
+      ],
+      "score": 55,
+      "_demo": false
+    },
+    {
+      "doc_num": "20260000007231",
+      "doc_type": "HEIRSHIP AFFIDAVIT",
+      "filed": "2026-04-20",
+      "cat": "probate",
+      "cat_label": "Heirship Affidavit",
+      "owner": "REYES REYNALDO",
+      "grantee": "REYES ROSA ELVA",
+      "amount": null,
+      "legal": "Sub/Con: SAMUEL MCFADGIN SURVEY",
+      "prop_address": "842 BUENA VISTA",
+      "prop_city": "Rockwall",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "842 BUENA VISTA RD",
+      "mail_city": "ROYSE CITY",
+      "mail_state": "TX",
+      "mail_zip": "75189",
+      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
+      "flags": [
+        "Probate / estate"
+      ],
+      "score": 55,
+      "_demo": false
+    },
+    {
+      "doc_num": "20260000007350",
+      "doc_type": "HEIRSHIP AFFIDAVIT",
+      "filed": "2026-04-21",
+      "cat": "probate",
+      "cat_label": "Heirship Affidavit",
+      "owner": "MATA DENISE GAYLE",
+      "grantee": "MATA MIKE",
+      "amount": null,
+      "legal": "Sub/Con: LAKESIDE VILLAGE ESTATES Lot: 53 Block: B Phase: VC 2034 PONTCHARTRAIN DRIVE",
+      "prop_address": "2034 PONTCHARTRAIN DR",
+      "prop_city": "Rockwall",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "2034 PONTCHARTRAIN DR",
+      "mail_city": "ROCKWALL",
+      "mail_state": "TX",
+      "mail_zip": "75087",
+      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
+      "flags": [
+        "Probate / estate"
       ],
       "score": 55,
       "_demo": false
@@ -4069,6 +4041,56 @@
       "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
       "flags": [
         "Lien"
+      ],
+      "score": 45,
+      "_demo": false
+    },
+    {
+      "doc_num": "20260000007123",
+      "doc_type": "LIEN",
+      "filed": "2026-04-20",
+      "cat": "lien",
+      "cat_label": "Lien",
+      "owner": "TURNER MICHELLE SANTRICE",
+      "grantee": "HEATH GOLF & YACHT CLUB HOA INC",
+      "amount": null,
+      "legal": "Sub/Con: HEATH GOLF & YACHT CLUB Lot: 89 Block: E Phase: 2 3545 GOLDEN BELL COURT",
+      "prop_address": "3545 GOLDEN BELL CT",
+      "prop_city": "HEATH",
+      "prop_state": "TX",
+      "prop_zip": "75126",
+      "mail_address": "3545 Golden Bell Ct",
+      "mail_city": "Heath",
+      "mail_state": "TX",
+      "mail_zip": "75126",
+      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
+      "flags": [
+        "Lien"
+      ],
+      "score": 45,
+      "_demo": false
+    },
+    {
+      "doc_num": "20260000007250",
+      "doc_type": "MECHANICS LIEN",
+      "filed": "2026-04-21",
+      "cat": "lien",
+      "cat_label": "Mechanics Lien",
+      "owner": "NORTH TEXAS WIN WATER",
+      "grantee": "MC TRILOGY TEXAS LLC",
+      "amount": null,
+      "legal": "Sub/Con: J SIMMONS SURVEY",
+      "prop_address": "MUNSON RD",
+      "prop_city": "Rockwall",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "PO BOX 2408",
+      "mail_city": "WYLIE",
+      "mail_state": "TX",
+      "mail_zip": "75098",
+      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
+      "flags": [
+        "Mechanic lien"
       ],
       "score": 45,
       "_demo": false
