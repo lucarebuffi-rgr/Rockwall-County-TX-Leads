@@ -1,39 +1,13 @@
 {
-  "fetched_at": "2026-05-07T03:09:36.071704Z",
+  "fetched_at": "2026-05-08T11:56:24.063114Z",
   "source": "Rockwall County TX \u2013 Tyler Technologies",
   "date_range": {
-    "from": "02/05/2026",
-    "to": "05/06/2026"
+    "from": "02/07/2026",
+    "to": "05/08/2026"
   },
-  "total": 162,
-  "with_address": 162,
+  "total": 159,
+  "with_address": 159,
   "records": [
-    {
-      "doc_num": "20260000007492",
-      "doc_type": "FEDERAL TAX LIEN",
-      "filed": "2026-04-23",
-      "cat": "lien",
-      "cat_label": "Federal Tax Lien",
-      "owner": "SULLIVAN PATRICK M",
-      "grantee": "INTERNAL REVENUE SERVICE",
-      "amount": null,
-      "legal": "$78591.35",
-      "prop_address": "470 MARTY CIR",
-      "prop_city": "Rockwall",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "3562 Oak Cliff Dr",
-      "mail_city": "Fallbrook",
-      "mail_state": "CA",
-      "mail_zip": "92028",
-      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
-      "flags": [
-        "Tax lien",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
     {
       "doc_num": "20260000007563",
       "doc_type": "STATE TAX LIEN",
@@ -1571,28 +1545,28 @@
       "_demo": false
     },
     {
-      "doc_num": "1231-1234",
-      "doc_type": "DIVORCE DECREE",
-      "filed": "2026-02-06",
-      "cat": "other",
-      "cat_label": "Divorce Decree",
-      "owner": "VIVAS VANESSA ENCARNACION",
-      "grantee": "GALINDO PEDRO GALICIA",
+      "doc_num": "20260000007492",
+      "doc_type": "FEDERAL TAX LIEN",
+      "filed": "2026-04-23",
+      "cat": "lien",
+      "cat_label": "Federal Tax Lien",
+      "owner": "SULLIVAN PATRICK M",
+      "grantee": "INTERNAL REVENUE SERVICE",
       "amount": null,
-      "legal": "Sub/Con: ROCKWALL LAKE ESTATES Lot: 1231-1234 Phase: 2 248 RUSSELL DRIVE",
-      "prop_address": "5032 PICASSO RD",
-      "prop_city": "ROYSE CITY",
+      "legal": "$78591.35",
+      "prop_address": "470 MARTY CIR",
+      "prop_city": "Rockwall",
       "prop_state": "TX",
-      "prop_zip": "75189",
-      "mail_address": "5032 PICASSO RD",
-      "mail_city": "ROYSE CITY",
-      "mail_state": "TX",
-      "mail_zip": "75189",
+      "prop_zip": "",
+      "mail_address": "3562 Oak Cliff Dr",
+      "mail_city": "Fallbrook",
+      "mail_state": "CA",
+      "mail_zip": "92028",
       "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
       "flags": [
-        "Divorce"
+        "Tax lien"
       ],
-      "score": 50,
+      "score": 55,
       "_demo": false
     },
     {
@@ -1643,56 +1617,6 @@
         "Divorce"
       ],
       "score": 50,
-      "_demo": false
-    },
-    {
-      "doc_num": "20260000002101",
-      "doc_type": "LIEN",
-      "filed": "2026-02-05",
-      "cat": "lien",
-      "cat_label": "Lien",
-      "owner": "BARRIENTOS MARIA",
-      "grantee": "TEXAS HEALTH ROCKWALL",
-      "amount": null,
-      "legal": "",
-      "prop_address": "854 CAUBLE DR",
-      "prop_city": "FATE",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "854 CAUBLE DRIVE",
-      "mail_city": "FATE",
-      "mail_state": "TX",
-      "mail_zip": "75087",
-      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
-      "flags": [
-        "Lien"
-      ],
-      "score": 45,
-      "_demo": false
-    },
-    {
-      "doc_num": "20260000002146",
-      "doc_type": "LIEN",
-      "filed": "2026-02-06",
-      "cat": "lien",
-      "cat_label": "Lien",
-      "owner": "STANBERRY CYNTHIA JEAN",
-      "grantee": "MEADOWCREEK ESTATES HOMEOWNERS ASSOCIATION INC",
-      "amount": null,
-      "legal": "Sub/Con: MEADOWCREEK ESTATES Lot: 52 Block: K Phase: IV 1680 CHESTERWOOD DRIVE",
-      "prop_address": "1680 CHESTERWOOD DR",
-      "prop_city": "Rockwall",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "1680 CHESTERWOOD DR",
-      "mail_city": "ROCKWALL",
-      "mail_state": "TX",
-      "mail_zip": "75032",
-      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
-      "flags": [
-        "Lien"
-      ],
-      "score": 45,
       "_demo": false
     },
     {
