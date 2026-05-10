@@ -1,39 +1,13 @@
 {
-  "fetched_at": "2026-05-08T11:56:24.063114Z",
+  "fetched_at": "2026-05-10T21:12:09.887047Z",
   "source": "Rockwall County TX \u2013 Tyler Technologies",
   "date_range": {
-    "from": "02/07/2026",
-    "to": "05/08/2026"
+    "from": "02/09/2026",
+    "to": "05/10/2026"
   },
-  "total": 159,
-  "with_address": 159,
+  "total": 162,
+  "with_address": 162,
   "records": [
-    {
-      "doc_num": "20260000007563",
-      "doc_type": "STATE TAX LIEN",
-      "filed": "2026-04-24",
-      "cat": "lien",
-      "cat_label": "State Tax Lien",
-      "owner": "NORTHCUTT DENNIS",
-      "grantee": "COMPTROLLER OF PUBLIC ACCOUNTS",
-      "amount": null,
-      "legal": "$3436.64",
-      "prop_address": "408 NORTHSTAR DR",
-      "prop_city": "Rockwall",
-      "prop_state": "TX",
-      "prop_zip": "",
-      "mail_address": "408 NORTHSTAR DRIVE",
-      "mail_city": "ROYSE CITY",
-      "mail_state": "TX",
-      "mail_zip": "75189",
-      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
-      "flags": [
-        "Tax lien",
-        "New this week"
-      ],
-      "score": 70,
-      "_demo": false
-    },
     {
       "doc_num": "20260000007639",
       "doc_type": "HEIRSHIP AFFIDAVIT",
@@ -945,6 +919,84 @@
       "_demo": false
     },
     {
+      "doc_num": "20260000008681",
+      "doc_type": "LIEN",
+      "filed": "2026-05-08",
+      "cat": "lien",
+      "cat_label": "Lien",
+      "owner": "REYES NORMA",
+      "grantee": "WOODCREEK FATE HOMEOWNERS ASSOCIATION INC",
+      "amount": null,
+      "legal": "Sub/Con: WOODCREEK Lot: 1 Block: E Phase: 2B",
+      "prop_address": "433 SUGARBERRY LN",
+      "prop_city": "Rockwall",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "433 SUGARBERRY LN",
+      "mail_city": "FATE",
+      "mail_state": "TX",
+      "mail_zip": "75087",
+      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
+      "flags": [
+        "Lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "20260000008680",
+      "doc_type": "LIEN",
+      "filed": "2026-05-08",
+      "cat": "lien",
+      "cat_label": "Lien",
+      "owner": "BEAL DANIELLE",
+      "grantee": "WOODCREEK FATE HOMEOWNERS ASSOCIATION INC",
+      "amount": null,
+      "legal": "Sub/Con: WOODCREEK Lot: 26 Block: K Phase: 1C",
+      "prop_address": "424 FLORENCE DR",
+      "prop_city": "Rockwall",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "424 FLORENCE DRIVE",
+      "mail_city": "FATE",
+      "mail_state": "TX",
+      "mail_zip": "75087",
+      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
+      "flags": [
+        "Lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
+      "doc_num": "20260000008679",
+      "doc_type": "LIEN",
+      "filed": "2026-05-08",
+      "cat": "lien",
+      "cat_label": "Lien",
+      "owner": "GARCIA DAVID CHRISTOPHER",
+      "grantee": "WOODCREEK FATE HOMEOWNERS ASSOCIATION INC",
+      "amount": null,
+      "legal": "Sub/Con: WOODCREEK Lot: 9 Block: J Phase: 2B 317 MULBERRY DRIVE",
+      "prop_address": "801 FIREBERRY DR",
+      "prop_city": "Rockwall",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "801 FIREBERRY",
+      "mail_city": "ROCKWALL",
+      "mail_state": "TX",
+      "mail_zip": "75087",
+      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
+      "flags": [
+        "Lien",
+        "New this week"
+      ],
+      "score": 60,
+      "_demo": false
+    },
+    {
       "doc_num": "20260000002376",
       "doc_type": "FEDERAL TAX LIEN",
       "filed": "2026-02-10",
@@ -1562,6 +1614,31 @@
       "mail_city": "Fallbrook",
       "mail_state": "CA",
       "mail_zip": "92028",
+      "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
+      "flags": [
+        "Tax lien"
+      ],
+      "score": 55,
+      "_demo": false
+    },
+    {
+      "doc_num": "20260000007563",
+      "doc_type": "STATE TAX LIEN",
+      "filed": "2026-04-24",
+      "cat": "lien",
+      "cat_label": "State Tax Lien",
+      "owner": "NORTHCUTT DENNIS",
+      "grantee": "COMPTROLLER OF PUBLIC ACCOUNTS",
+      "amount": null,
+      "legal": "$3436.64",
+      "prop_address": "408 NORTHSTAR DR",
+      "prop_city": "Rockwall",
+      "prop_state": "TX",
+      "prop_zip": "",
+      "mail_address": "408 NORTHSTAR DRIVE",
+      "mail_city": "ROYSE CITY",
+      "mail_state": "TX",
+      "mail_zip": "75189",
       "clerk_url": "https://rockwalltx-web.tylerhost.net/web/search/DOCSEARCH542S1",
       "flags": [
         "Tax lien"
